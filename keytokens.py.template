@@ -1,0 +1,4 @@
+CONSUMER_KEY = 'consumer-key'
+CONSUMER_SECRET = 'consumer-secret-key'
+ACCESS_KEY = 'access-token'
+ACCESS_SECRET = 'access-secret-token'
