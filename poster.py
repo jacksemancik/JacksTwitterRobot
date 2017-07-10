@@ -15,4 +15,4 @@ for line in f:
     post = line + ' ~Jack\'s Twitter Robot'
     api.update_status(post) #updates twitter status
     print('Posted the following: %s' % post)
-    time.sleep(120) #sleeps 900 seconds
+    time.sleep(120) #sleeps 120 seconds
